@@ -46,10 +46,5 @@ int main () {
 	Book B1("harry potter","jk-rowling",234567,20,12,0);
 	B1.UpdateRead(2);
 	B1.UpdateRead(10);
-	
-	
-
-	
-	
-	
+	return 0;
 }

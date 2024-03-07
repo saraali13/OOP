@@ -1,10 +1,13 @@
+/*
+Name: S. Sara Ali
+ID:23K-0070
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
-
 const int MAX_MENU_ITEMS = 10;  
 const int MAX_ORDER_ITEMS = 10; 
-
 
 class MenuItem 
 {

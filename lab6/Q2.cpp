@@ -76,6 +76,7 @@ class Image{
 //main function
 int main()
 {
+	cout<<"Name:S.Sara Ali\nID:23K-0070\n\n";
 	int imgData[] = {10,56,63,28};
 	Image Img1(4,2 ,imgData);
 	Image Img2 = Img1;

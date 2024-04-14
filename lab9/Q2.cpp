@@ -220,7 +220,7 @@ int main()
         cin >> choice;
     } while (choice == "yes");
 
-    cout << "Signing off\n";
+    cout << "\nSigning off\n";
     
     return 0;
 }

@@ -36,7 +36,7 @@ public:
         val1 = liters;
     }
 
-    void compute() override //overriding virtual funtion
+    void compute()  //overriding virtual funtion
     {
         val2 = val1 * 0.264172; // 1 liter = 0.264172 gallons
     }
@@ -51,7 +51,7 @@ public:
         val1 = fahrenheit;
     }
 
-    void compute() override //overriding virtual funtion
+    void compute()  //overriding virtual funtion
     {
         val2 = (val1 - 32) * 5 / 9; // Fahrenheit to Celsius conversion formula
     }
